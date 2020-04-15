@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">homeworkTSU</string>
+    <string name="qula_txt">ქულა:</string>
+    <string name="preference_file_key">qula</string>
+</resources>
